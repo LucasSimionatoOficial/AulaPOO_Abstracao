@@ -21,6 +21,7 @@ namespace AulaPOO_Abstracao
                         sair = false;
                         Boleto boleto = new Boleto();
                         Console.WriteLine("Digite o código de barras");
+                        Console.WriteLine(boleto.Desconto(valor));
                         boleto.Registrar();
                         break;
                     case "2":
@@ -28,7 +29,6 @@ namespace AulaPOO_Abstracao
                         Credito credito = new Credito();
                         Console.WriteLine("Insira os dados do cartão");
                         Console.WriteLine(credito.SalvarCartao());
-                        Console.WriteLine("Digite o valor a ser pago");
                         credito.Pagar(valor);
                         break;
                     case "3":

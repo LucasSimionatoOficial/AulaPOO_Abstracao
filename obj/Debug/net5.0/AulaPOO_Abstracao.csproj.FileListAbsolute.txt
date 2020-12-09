@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\bin\Debug\net5.0\AulaPOO_Abstracao.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\bin\Debug\net5.0\AulaPOO_Abstracao.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\bin\Debug\net5.0\AulaPOO_Abstracao.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\bin\Debug\net5.0\AulaPOO_Abstracao.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\bin\Debug\net5.0\AulaPOO_Abstracao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\bin\Debug\net5.0\ref\AulaPOO_Abstracao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\bin\Debug\net5.0\AulaPOO_Abstracao.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\ref\AulaPOO_Abstracao.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\AulaPOO_Abstracao\obj\Debug\net5.0\AulaPOO_Abstracao.genruntimeconfig.cache
